@@ -1,4 +1,11 @@
-﻿using System;
+/// Andrew Johnston
+/// Feb, 8th
+/// deck dimention calc
+
+
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
